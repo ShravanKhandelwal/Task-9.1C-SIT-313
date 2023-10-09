@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: pink; */
+}
+
+div{
+    background-color: purple;
+    padding: 0px;
+    color: rgb(218, 40, 40);
+    font-size: 20px;
+}
+
+div a{
+    color: white;
+    text-decoration: underline;
+}
+
